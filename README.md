@@ -2,11 +2,6 @@
 
 A simple yet engaging number guessing game implemented in Java where players try to guess a random number within limited attempts.
 
-## Repository Information
-
-- **Name**: java-number-guessing-game
-- **Description**: A console-based number guessing game where players have 5 attempts to guess a random number between 1-100.
-
 ## Features
 
 - 🎲 Random number generation between 1-100
